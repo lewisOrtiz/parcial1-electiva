@@ -1,0 +1,15 @@
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\bin\Debug\net6.0\parcial 1 - electiva.exe
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\bin\Debug\net6.0\parcial 1 - electiva.deps.json
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\bin\Debug\net6.0\parcial 1 - electiva.runtimeconfig.json
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\bin\Debug\net6.0\parcial 1 - electiva.dll
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\bin\Debug\net6.0\parcial 1 - electiva.pdb
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.csproj.AssemblyReference.cache
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.AssemblyInfoInputs.cache
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.AssemblyInfo.cs
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.csproj.CoreCompileInputs.cache
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.dll
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\refint\parcial 1 - electiva.dll
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.pdb
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\parcial 1 - electiva.genruntimeconfig.cache
+C:\Users\lewos\source\repos\parcial 1 - electiva\parcial 1 - electiva\obj\Debug\net6.0\ref\parcial 1 - electiva.dll
